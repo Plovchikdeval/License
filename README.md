@@ -4,8 +4,8 @@
 **Срок действия:** 2025 — 2040  
 **Автор:** © 2025–2040 [dev3quest]  
 **Контакты:**  
-- Telegram: [t.me/dev3quest](https://t.me/dev3quest)  
-- Резерв: [t.me/dev3quest_alt](https://t.me/dev3quest_alt)  
+- Telegram: [@dev3quest](https://t.me/dev3quest)  
+- Резерв: [@dev3quest_alt](https://t.me/dev3quest_alt)  
 - Email: dev3quest@gmail.com  
 
 ---
@@ -71,3 +71,5 @@ Contact: [t.me/dev3quest](https://t.me/dev3quest) | [t.me/dev3quest_alt](https:/
 ---
 
 © 2025–2040 dev3quest. All rights reserved.
+
+Allow use/Разрешено использовать: [@zetgo](https://t.me/zetgo), [@kshmods](https://t.me/kshmods)
